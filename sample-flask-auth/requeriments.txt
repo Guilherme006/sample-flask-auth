@@ -1,0 +1,6 @@
+pymysql
+cryptography
+Flask
+Flask-SQLAlchemy
+Flask-Login
+Werkzeug
